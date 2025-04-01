@@ -26,12 +26,12 @@ This is an implementation of the classic Pong game using the `ncurses` library i
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/Jappanjot26/C-Language.git
+   git clone https://github.com/Jappanjot26/Pong-Game.git
    ```
 
 **Navigate to the Pong Game Directory:**
    ```bash
-   cd C-Language/Pong\ Game\ \(\ project\ \)/
+   cd Pong-Game
    ```
 
 **Try Running the Pre-Compiled Output:**
